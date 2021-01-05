@@ -21,6 +21,9 @@ public class SecondSession {
         }else if (num>0 && num<30) System.out.println("result is in range 1-30");
         else{
             System.out.println("result is more than 30");
+
+
+            System.out.println("Added");
         }
 
     }
@@ -63,6 +66,22 @@ public class SecondSession {
 //        System.out.println(a);
 //        a=++b;
 //        System.out.println(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
